@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! Thanks for stopping by!
 
-- Visit my portfolio site here: (**ryanrotman.github.io/portfolio/**)[https://ryanrotman.github.io/portfolio/]
-- Connect with me on LinkedIn: (**linkedin.com/in/ryanrotman/**)[https://www.linkedin.com/in/ryanrotman/]
-- Contact me at: (**ryan.rotman@gmail.com**)[mailto:ryan.rotman@gmail.com]
+- Visit my portfolio site here: [**ryanrotman.github.io/portfolio/**](https://ryanrotman.github.io/portfolio/)
+- Connect with me on LinkedIn: [**linkedin.com/in/ryanrotman/**](https://www.linkedin.com/in/ryanrotman/)
+- Contact me at: [**ryan.rotman@gmail.com**](mailto:ryan.rotman@gmail.com)
 
 <!--
 **ryanrotman/ryanrotman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
