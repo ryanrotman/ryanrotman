@@ -13,7 +13,7 @@ Please take a look around and I look forward to connecting with you!
 
 ## My GitHub Stats
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=ryanrotman&show_icons=true&theme=dark" />
 </p>
 
