@@ -15,6 +15,8 @@ Please take a look around and I look forward to connecting with you!
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ryanrotman&show_icons=true&theme=dark" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrotman&layout=compact&theme=dark" />
 </p>
 
 ## Technologies
