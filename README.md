@@ -73,6 +73,12 @@ Please take a look around and I look forward to connecting with you!
     <!-- Heroku -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="32" alt="Heroku" />
         &nbsp;
+    <!-- Babel -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-plain.svg" width="32" alt="Babel" />
+        &nbsp;
+    <!-- Webpack -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="32" alt="Webpack" />
+        &nbsp;
     <!-- Travis -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" width="32" alt="Travis" />
         &nbsp;
