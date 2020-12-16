@@ -79,6 +79,9 @@ Please take a look around and I look forward to connecting with you!
     <!-- Webpack -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="32" alt="Webpack" />
         &nbsp;
+    <!-- Redux -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/redux/redux-original.svg" width="32" alt="Webpack" />
+    &nbsp;
     <!-- Travis -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" width="32" alt="Travis" />
         &nbsp;
