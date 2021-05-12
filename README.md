@@ -2,11 +2,10 @@
 
 ## Welcome to my GitHub profile!
 
-Thanks for stopping by! I am a full-stack developer currently looking for work.
+Thanks for stopping by! I am an Associate Salesforce Commerce Cloud Developer at [Red Van Workshop](https://redvanworkshop.com/).
 
 - Visit my portfolio site here: [**ryanrotman.github.io**](https://ryanrotman.github.io/)
 - Connect with me on LinkedIn: [**linkedin.com/in/ryanrotman**](https://www.linkedin.com/in/ryanrotman/)
-- Download my resume [**here**](https://ryanrotman.github.io/static/media/RyanRotman_Resume.d1af8169.pdf)
 - Contact me at: [**ryan.rotman@gmail.com**](mailto:ryan.rotman@gmail.com)
 
 Please take a look around and I look forward to connecting with you!
