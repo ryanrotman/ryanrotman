@@ -6,7 +6,7 @@ Thanks for stopping by! I am an Associate Salesforce Commerce Cloud Developer at
 
 - Visit my portfolio site here: [**ryanrotman.github.io**](https://ryanrotman.github.io/)
 - Connect with me on LinkedIn: [**linkedin.com/in/ryanrotman**](https://www.linkedin.com/in/ryanrotman/)
-- Contact me at: [**ryan.rotman@gmail.com**](mailto:ryan.rotman@gmail.com)
+- Contact me at: [**ryan.rotman@redvanworkshop.com**](mailto:ryan.rotman@redvanworkshop.com)
 
 Please take a look around and I look forward to connecting with you!
 
