@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-Thanks for stopping by! I am an Associate Salesforce Commerce Cloud Developer at [Red Van Workshop](https://redvanworkshop.com/).
+Thanks for stopping by!
 
 - Visit my portfolio site here: [**ryanrotman.github.io**](https://ryanrotman.github.io/)
 - Connect with me on LinkedIn: [**linkedin.com/in/ryanrotman**](https://www.linkedin.com/in/ryanrotman/)
